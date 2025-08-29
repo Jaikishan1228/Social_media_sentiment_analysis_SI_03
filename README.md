@@ -49,7 +49,7 @@ Performance metrics for trained models.
 
 Clone the repository:
 
-git clone https://github.com/your-username/Social-Media-Sentiment-Analysis.git
+git clone https://github.com/Jaikishan1228/Social_media_sentiment_analysis_SI_03.git
 cd Social-Media-Sentiment-Analysis
 
 
